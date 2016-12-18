@@ -1,0 +1,700 @@
+10,000,000 Volt Thunderbolt,Electric,Special,20,0,7,0,No,0,0,No,No
+Absorb,Grass,Special,4,100,6,0,No,0,10,No,No
+Accelerock,Rock,Physical,4,100,4,0,Yes,1,10,No,No
+Acid,Poison,Special,4,100,3,10,No,0,10,No,No
+Acid Armor,Poison,Other,0,0,7,0,No,0,0,Yes,No
+Acid Downpour,Poison,Physical,0,0,0,0,No,0,0,No,No
+Acid Spray,Poison,Special,4,100,5,0,No,0,10,No,No
+Acrobatics,Flying,Physical,6,100,7,0,Yes,0,10,No,No
+Acupressure,Normal,Other,0,0,6,0,No,0,0,No,No
+Aerial Ace,Flying,Physical,6,0,4,0,Yes,0,12,No,No
+Aeroblast,Flying,Special,10,95,7,0,No,0,18,No,No
+After You,Normal,Other,0,0,6,0,No,0,0,No,No
+Agility,Psychic,Other,0,0,7,0,No,1,0,Yes,No
+Air Cutter,Flying,Special,6,95,4,0,No,0,12,No,No
+Air Slash,Flying,Special,8,95,6,30,No,0,14,No,No
+All-Out Pummeling,Fighting,Physical,0,0,0,0,No,0,0,No,No
+Ally Switch,Psychic,Other,0,0,5,0,No,2,0,No,No
+Amnesia,Psychic,Other,0,0,7,0,No,0,0,Yes,No
+Anchor Shot,Steel,Physical,8,100,6,0,Yes,0,16,No,No
+Ancient Power,Rock,Special,6,100,4,10,No,0,12,No,No
+Aqua Jet,Water,Physical,4,100,4,0,Yes,1,10,No,No
+Aqua Ring,Water,Other,0,0,9,0,No,0,0,Yes,No
+Aqua Tail,Water,Physical,9,90,7,0,Yes,0,18,No,No
+Arm Thrust,Fighting,Physical,2,100,4,0,Yes,0,10,No,No
+Aromatherapy,Grass,Other,0,0,9,0,No,0,0,Yes,No
+Aromatic Mist,Fairy,Other,0,0,4,0,No,0,0,Yes,No
+Assist,Normal,Other,0,100,0,0,No,0,0,No,No
+Assurance,Dark,Physical,6,100,8,0,Yes,0,12,No,No
+Astonish,Ghost,Physical,4,100,3,30,Yes,0,10,No,No
+Attack Order,Bug,Physical,9,100,7,0,No,0,18,No,No
+Attract,Normal,Other,0,100,6,0,No,0,0,No,Yes
+Aura Sphere,Fighting,Special,8,0,6,0,No,0,16,No,No
+Aurora Beam,Ice,Special,7,100,5,10,No,0,12,No,No
+Aurora Veil,Ice,Other,0,0,10,0,No,0,0,Yes,No
+Autotomize,Steel,Other,0,0,7,0,No,0,0,Yes,No
+Avalanche,Ice,Physical,6,100,8,0,Yes,-4,12,No,No
+Baby-Doll Eyes,Fairy,Other,0,100,5,0,No,1,0,No,Yes
+Baneful Bunker,Poison,Other,0,0,4,0,No,4,0,No,No
+Barrage,Normal,Physical,2,85,3,0,No,0,10,No,No
+Barrier,Psychic,Other,0,0,7,0,No,0,0,Yes,No
+Baton Pass,Normal,Other,0,0,10,0,No,0,0,No,No
+Beak Blast,Flying,Physical,10,100,7,0,Yes,-3,18,No,No
+Beat Up,Dark,Physical,3,100,2,0,No,0,10,No,No
+Belch,Poison,Special,12,90,8,0,No,0,19,No,No
+Belly Drum,Normal,Other,0,0,30,0,No,0,0,Yes,No
+Bestow,Normal,Other,0,0,4,0,No,0,0,No,No
+Bide,Normal,Physical,0,0,6,0,Yes,1,10,No,No
+Bind,Normal,Physical,3,85,4,0,Yes,0,10,No,No
+Bite,Dark,Physical,6,100,4,30,Yes,0,12,No,No
+Black Hole Eclipse,Dark,Physical,0,0,0,0,No,0,0,No,No
+Blast Burn,Fire,Special,15,90,10,0,No,0,20,No,No
+Blaze Kick,Fire,Physical,9,90,7,10,Yes,0,16,No,No
+Blizzard,Ice,Special,11,70,8,10,No,0,19,No,No
+Block,Normal,Other,0,0,6,0,No,2,0,No,Yes
+Bloom Doom,Grass,Physical,0,0,0,0,No,0,0,No,No
+Blue Flare,Fire,Special,13,85,9,20,No,0,20,No,No
+Body Slam,Normal,Physical,0,100,0,30,Yes,0,16,No,No
+Bolt Strike,Electric,Physical,13,85,9,20,Yes,0,20,No,No
+Bone Club,Ground,Physical,7,85,5,10,No,0,12,No,No
+Bone Rush,Ground,Physical,3,90,7,,No,0,14,No,No
+Bonemerang,Ground,Physical,5,90,7,0,No,0,10,No,No
+Boomburst,Normal,Special,14,100,10,0,No,0,20,No,No
+Bounce,Flying,Physical,0,85,0,30,Yes,-1,16,No,No
+Brave Bird,Flying,Physical,0,100,0,0,Yes,0,19,No,No
+Breakneck Blitz,Normal,Physical,0,0,0,0,No,0,0,No,No
+Brick Break,Fighting,Physical,8,100,6,0,Yes,0,14,No,No
+Brine,Water,Special,7,100,8,0,No,0,12,No,No
+Brutal Swing,Dark,Physical,6,100,5,0,Yes,0,12,No,No
+Bubble,Water,Special,4,100,3,10,No,0,10,No,No
+Bubble Beam,Water,Special,7,100,5,10,No,0,12,No,No
+Bug Bite,Bug,Physical,6,100,4,0,Yes,0,12,No,No
+Bug Buzz,Bug,Special,9,100,7,10,No,0,18,No,No
+Bulk Up,Fighting,Other,0,0,7,0,No,0,0,Yes,No
+Bulldoze,Ground,Physical,6,100,5,100,No,0,12,No,No
+Bullet Punch,Steel,Physical,4,100,4,0,Yes,1,10,No,No
+Bullet Seed,Grass,Physical,3,100,7,0,No,0,14,No,No
+Burn Up,Fire,Special,13,100,9,0,No,0,20,No,No
+Calm Mind,Psychic,Other,0,0,7,0,No,0,0,Yes,No
+Camouflage,Normal,Other,0,0,8,0,No,0,0,Yes,No
+Captivate,Normal,Other,0,0,6,0,No,0,0,No,Yes
+Catastropika,Electric,Physical,0,0,0,0,Yes,0,0,No,No
+Celebrate,Normal,Other,0,0,1,0,No,0,0,No,No
+Charge,Electric,Other,0,0,8,0,No,0,0,Yes,No
+Charge Beam,Electric,Special,5,90,6,70,No,0,10,No,No
+Charm,Fairy,Other,0,100,6,0,No,0,0,No,Yes
+Chatter,Flying,Special,7,100,5,100,No,0,12,No,No
+Chip Away,Normal,Physical,7,100,5,0,Yes,0,14,No,No
+Circle Throw,Fighting,Physical,0,90,5,0,Yes,-6,12,No,No
+Clamp,Water,Physical,4,85,5,0,Yes,0,10,No,No
+Clanging Scales,Dragon,Special,11,100,7,0,No,0,19,No,No
+Clear Smog,Poison,Special,5,0,4,0,No,0,10,No,No
+Close Combat,Fighting,Physical,12,100,8,0,Yes,0,19,No,No
+Coil,Poison,Other,0,0,9,0,No,0,0,Yes,No
+Comet Punch,Normal,Physical,2,85,4,0,Yes,0,10,No,No
+Confide,Normal,Other,0,0,5,0,No,0,0,No,Yes
+Confuse Ray,Ghost,Other,0,100,5,0,No,0,0,No,Yes
+Confusion,Psychic,Special,5,100,3,10,No,0,10,No,No
+Constrict,Normal,Physical,4,100,3,0,Yes,0,10,No,No
+Continental Crush,Rock,Physical,0,0,0,0,No,0,0,No,No
+Conversion,Normal,Other,0,0,7,0,No,0,0,Yes,No
+Conversion 2,Normal,Other,0,0,5,0,No,0,0,No,No
+Copycat,Normal,Other,0,0,0,0,No,0,0,No,No
+Core Enforcer,Dragon,Special,10,100,7,0,No,0,19,No,No
+Corkscrew Crash,Steel,Physical,0,0,0,0,No,0,0,No,No
+Cosmic Power,Psychic,Other,0,0,7,0,No,0,0,Yes,No
+Cotton Guard,Grass,Other,0,0,11,0,No,0,0,Yes,No
+Cotton Spore,Grass,Other,0,0,6,0,No,0,0,No,Yes
+Counter,Fighting,Physical,0,100,0,0,Yes,-5,10,No,No
+Covet,Normal,Physical,6,100,4,0,Yes,0,12,No,No
+Crabhammer,Water,Physical,10,90,7,0,Yes,0,18,No,No
+Crafty Shield,Fairy,Other,0,0,7,0,No,3,0,Yes,No
+Cross Chop,Fighting,Physical,10,80,7,0,Yes,0,18,No,No
+Cross Poison,Poison,Physical,7,100,5,10,Yes,0,14,No,No
+Crunch,Dark,Physical,8,100,6,20,Yes,0,16,No,No
+Crush Claw,Normal,Physical,8,95,6,50,Yes,0,14,No,No
+Crush Grip,Normal,Physical,0,0,8,0,Yes,0,19,No,No
+Curse,Ghost,Other,0,0,6,0,No,0,0,No,No
+Cut,Normal,Physical,5,0,3,0,Yes,0,10,No,No
+Dark Pulse,Dark,Special,8,100,6,20,No,0,16,No,No
+Dark Void,Dark,Other,0,50,10,0,No,0,0,No,Yes
+Darkest Lariat,Dark,Physical,8,100,6,0,Yes,0,16,No,No
+Dazzling Gleam,Fairy,Special,8,100,6,0,No,0,16,No,No
+Defend Order,Bug,Other,0,0,7,0,No,0,0,Yes,No
+Defense Curl,Normal,Other,0,0,5,0,No,0,0,Yes,No
+Defog,Flying,Other,0,0,10,0,No,0,0,No,Yes
+Destiny Bond,Ghost,Other,0,0,15,0,No,0,0,No,No
+Detect,Fighting,Other,0,0,0,0,No,4,0,No,No
+Devastating Drake,Dragon,Physical,0,0,0,0,No,0,0,No,No
+Diamond Storm,Rock,Physical,10,95,7,50,No,0,18,No,No
+Dig,Ground,Physical,8,100,10,0,Yes,-2,16,No,No
+Disable,Normal,Other,0,100,7,0,No,0,0,No,Yes
+Disarming Voice,Fairy,Special,4,0,4,0,No,0,10,No,No
+Discharge,Electric,Special,8,100,6,30,No,0,16,No,No
+Dive,Water,Physical,8,100,10,0,Yes,-2,16,No,No
+Dizzy Punch,Normal,Physical,7,100,5,20,Yes,0,14,No,No
+Doom Desire,Steel,Special,14,100,10,0,No,0,20,No,No
+Double Hit,Normal,Physical,4,90,6,0,Yes,0,14,No,No
+Double Kick,Fighting,Physical,3,100,4,0,Yes,0,10,No,No
+Double Slap,Normal,Physical,2,85,4,0,Yes,0,10,No,No
+Double Team,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Double-Edge,Normal,Physical,0,100,0,0,Yes,0,19,No,No
+Draco Meteor,Dragon,Special,13,90,9,0,No,0,20,No,No
+Dragon Ascent,Flying,Physical,12,100,8,0,Yes,0,19,No,No
+Dragon Breath,Dragon,Special,6,100,5,30,No,0,12,No,No
+Dragon Claw,Dragon,Physical,8,100,6,0,Yes,0,16,No,No
+Dragon Dance,Dragon,Other,0,0,7,0,No,0,0,Yes,No
+Dragon Hammer,Dragon,Physical,9,100,7,0,Yes,0,18,No,No
+Dragon Pulse,Dragon,Special,9,100,7,0,No,0,16,No,No
+Dragon Rage,Dragon,Special,0,100,5,0,No,0,10,No,No
+Dragon Rush,Dragon,Physical,10,75,7,20,Yes,0,18,No,No
+Dragon Tail,Dragon,Physical,6,90,5,0,Yes,-6,12,No,No
+Drain Punch,Fighting,Physical,8,100,12,0,Yes,0,14,No,No
+Draining Kiss,Fairy,Special,5,100,7,0,Yes,0,10,No,No
+Dream Eater,Psychic,Special,10,100,12,0,No,0,18,No,No
+Drill Peck,Flying,Physical,8,100,6,0,Yes,0,16,No,No
+Drill Run,Ground,Physical,8,95,6,0,Yes,0,16,No,No
+Dual Chop,Dragon,Physical,4,90,6,0,Yes,0,10,No,No
+Dynamic Punch,Fighting,Physical,10,50,8,0,Yes,0,18,No,No
+Earth Power,Ground,Special,9,100,7,10,No,0,18,No,No
+Earthquake,Ground,Physical,10,100,7,0,No,0,18,No,No
+Echoed Voice,Normal,Special,0,100,0,0,No,0,10,No,No
+Eerie Impulse,Electric,Other,0,100,6,0,No,0,0,No,Yes
+Egg Bomb,Normal,Physical,10,75,7,0,No,0,18,No,No
+Electric Terrain,Electric,Other,0,0,10,0,No,0,0,No,No
+Electrify,Electric,Other,0,0,7,0,No,0,0,No,Yes
+Electro Ball,Electric,Special,0,100,9,0,No,0,16,No,No
+Electroweb,Electric,Special,6,95,5,0,No,0,10,No,No
+Embargo,Dark,Other,0,100,5,0,No,0,0,No,Yes
+Ember,Fire,Special,4,100,3,10,No,0,10,No,No
+Encore,Normal,Other,0,100,10,0,No,0,0,No,Yes
+Endeavor,Normal,Physical,0,100,0,0,Yes,0,16,No,No
+Endure,Normal,Other,0,0,15,0,No,4,0,No,No
+Energy Ball,Grass,Special,9,100,7,10,No,0,18,No,No
+Entrainment,Normal,Other,0,0,8,0,No,0,0,No,Yes
+Eruption,Fire,Special,0,100,8,0,No,0,20,No,No
+Explosion,Normal,Physical,25,100,20,0,No,0,20,No,No
+Extrasensory,Psychic,Special,8,100,6,10,No,0,16,No,No
+Extreme Evoboost,Normal,Other,0,0,9,0,No,0,0,Yes,No
+Extreme Speed,Normal,Physical,8,100,6,0,Yes,2,16,No,No
+Facade,Normal,Physical,7,100,5,0,Yes,0,14,No,No
+Fairy Wind,Fairy,Special,4,100,3,0,No,0,10,No,No
+Fake Out,Normal,Physical,4,100,4,0,Yes,3,10,No,No
+Fake Tears,Dark,Other,0,100,6,0,No,0,0,No,Yes
+False Swipe,Normal,Physical,4,100,3,0,Yes,0,10,No,No
+Feather Dance,Flying,Other,0,100,6,0,No,0,0,No,Yes
+Feint,Normal,Physical,4,100,4,0,No,2,10,No,No
+Feint Attack,Dark,Physical,6,0,4,0,Yes,0,12,No,No
+Fell Stinger,Bug,Physical,5,100,4,0,Yes,0,10,No,No
+Fiery Dance,Fire,Special,8,100,6,50,No,0,16,No,No
+Final Gambit,Fighting,Special,0,100,20,0,Yes,0,18,No,No
+Fire Blast,Fire,Special,11,85,8,10,No,0,19,No,No
+Fire Fang,Fire,Physical,7,95,5,10,Yes,0,12,No,No
+Fire Lash,Fire,Physical,8,100,6,100,Yes,0,16,No,No
+Fire Pledge,Fire,Special,8 or 20,100,6,0,No,0,16,No,No
+Fire Punch,Fire,Physical,8,100,6,10,Yes,0,14,No,No
+Fire Spin,Fire,Special,4,85,5,0,No,0,10,No,No
+First Impression,Bug,Physical,9,100,7,0,Yes,2,18,No,No
+Fissure,Ground,Physical,25,30,14,0,No,0,18,No,No
+Flail,Normal,Physical,0,100,0,0,Yes,0,16,No,No
+Flame Burst,Fire,Special,7,100,6,0,No,0,14,No,No
+Flame Charge,Fire,Physical,5,100,4,0,Yes,0,10,No,No
+Flame Wheel,Fire,Physical,6,100,4,10,Yes,0,12,No,No
+Flamethrower,Fire,Special,9,100,7,10,No,0,18,No,No
+Flare Blitz,Fire,Physical,0,100,0,10,Yes,0,19,No,No
+Flash,Normal,Other,0,100,0,0,No,0,0,No,Yes
+Flash Cannon,Steel,Special,8,100,6,10,No,0,16,No,No
+Flatter,Dark,Other,0,100,4,0,No,0,0,No,Yes
+Fleur Cannon,Fairy,Special,13,90,9,0,No,0,20,No,No
+Fling,Dark,Physical,0,100,0,0,No,0,10,No,No
+Floral Healing,Fairy,Other,0,0,14,0,No,0,0,No,Yes
+Flower Shield,Fairy,Other,0,0,7,0,No,0,0,Yes,No
+Fly,Flying,Physical,9,95,11,0,Yes,-2,18,No,No
+Flying Press,Fighting,Physical,10,95,7,0,Yes,0,17,No,No
+Focus Blast,Fighting,Special,12,70,8,10,No,0,19,No,No
+Focus Energy,Normal,Other,0,0,12,0,No,0,0,Yes,No
+Focus Punch,Fighting,Physical,15,100,10,0,Yes,-3,20,No,No
+Follow Me,Normal,Other,0,100,9,0,No,2,0,No,No
+Force Palm,Fighting,Physical,6,100,5,30,Yes,0,12,No,No
+Foresight,Normal,Other,0,0,6,0,No,0,0,No,Yes
+Forest's Curse,Grass,Other,0,100,8,0,No,0,0,No,Yes
+Foul Play,Dark,Physical,10,100,7,0,Yes,0,18,No,No
+Freeze Shock,Ice,Physical,14,90,9,30,No,-1,20,No,No
+Freeze-Dry,Ice,Special,7,100,5,10,No,0,14,No,No
+Frenzy Plant,Grass,Special,15,90,10,0,No,0,20,No,No
+Frost Breath,Ice,Special,6,90,6,0,No,0,12,No,No
+Frustration,Normal,Physical,8,100,7,0,Yes,0,16,No,No
+Fury Attack,Normal,Physical,2,85,4,0,Yes,0,10,No,No
+Fury Cutter,Bug,Physical,0,95,0,0,Yes,0,10,No,No
+Fury Swipes,Normal,Physical,2,80,4,0,Yes,0,10,No,No
+Fusion Bolt,Electric,Physical,10,100,7,0,No,0,18,No,No
+Fusion Flare,Fire,Special,10,100,7,0,No,0,18,No,No
+Future Sight,Psychic,Special,12,100,8,0,No,0,19,No,No
+Gastro Acid,Poison,Other,0,100,6,0,No,0,0,No,Yes
+Gear Grind,Steel,Physical,5,85,8,0,Yes,0,18,No,No
+Gear Up,Steel,Other,0,0,7,0,No,0,0,No,No
+Genesis Supernova,Psychic,Special,0,0,0,0,No,0,0,No,No
+Geomancy,Fairy,Other,0,0,11,0,No,-3,0,Yes,No
+Giga Drain,Grass,Special,8,100,12,0,No,0,14,No,No
+Giga Impact,Normal,Physical,0,90,0,0,Yes,0,20,No,No
+Gigavolt Havoc,Electric,Physical,0,0,0,0,No,0,0,No,No
+Glaciate,Ice,Special,7,95,5,100,No,0,12,No,No
+Glare,Normal,Other,0,100,6,0,No,0,0,No,Yes
+Grass Knot,Grass,Special,0,100,0,0,Yes,0,16,No,No
+Grass Pledge,Grass,Special,8,100,6,0,No,0,16,No,No
+Grass Whistle,Grass,Other,0,55,5,0,No,0,0,No,Yes
+Grassy Terrain,Grass,Other,0,0,10,0,No,0,0,No,No
+Gravity,Psychic,Other,0,0,10,0,No,0,0,No,No
+Growl,Normal,Other,0,100,4,0,No,0,0,No,Yes
+Growth,Normal,Other,0,0,7,0,No,0,0,Yes,No
+Grudge,Ghost,Other,0,0,9,0,No,0,0,No,No
+Guard Split,Psychic,Other,0,0,0,0,No,0,0,No,No
+Guard Swap,Psychic,Other,0,0,5,0,No,0,0,No,No
+Guardian of Alola,Fairy,Special,0,0,0,0,No,0,0,No,No
+Guillotine,Normal,Physical,25,30,16,0,Yes,0,18,No,No
+Gunk Shot,Poison,Physical,12,80,8,30,No,0,19,No,No
+Gust,Flying,Special,4,100,3,0,No,0,10,No,No
+Gyro Ball,Steel,Physical,0,100,7,0,Yes,0,16,No,No
+Hail,Ice,Other,0,0,10,0,No,0,0,No,No
+Hammer Arm,Fighting,Physical,10,90,7,0,Yes,0,18,No,No
+Harden,Normal,Other,0,0,5,0,No,0,0,Yes,No
+Haze,Ice,Other,0,0,6,0,No,0,0,No,No
+Head Charge,Normal,Physical,0,100,0,0,Yes,0,19,No,No
+Head Smash,Rock,Physical,0,80,0,0,Yes,0,20,No,No
+Headbutt,Normal,Physical,7,100,5,30,Yes,0,14,No,No
+Heal Bell,Normal,Other,0,0,9,0,No,0,0,Yes,No
+Heal Block,Psychic,Other,0,0,10,0,No,0,0,No,Yes
+Heal Order,Bug,Other,0,0,0,0,No,0,0,Yes,No
+Heal Pulse,Psychic,Other,0,0,14,0,No,0,0,No,Yes
+Healing Wish,Psychic,Other,0,0,15,0,No,0,0,Yes,No
+Heart Stamp,Psychic,Physical,6,100,4,30,Yes,0,12,No,No
+Heart Swap,Psychic,Other,0,0,8,0,Yes,0,0,No,No
+Heat Crash,Fire,Physical,0,100,0,0,Yes,0,16,No,No
+Heat Wave,Fire,Special,10,90,7,10,No,0,18,No,No
+Heavy Slam,Steel,Physical,0,100,0,0,Yes,0,16,No,No
+Helping Hand,Normal,Other,0,0,0,0,No,5,0,No,No
+Hex,Ghost,Special,7,100,8,0,No,0,16,No,No
+Hidden Power,Normal,Special,6,100,4,0,No,0,12,No,No
+High Jump Kick,Fighting,Physical,13,90,8,0,Yes,0,20,No,No
+Highhorse Power,Ground,Physical,0,95,0,0,Yes,0,18,No,No
+Hold Back,Normal,Physical,4,100,3,0,Yes,0,10,No,No
+Hold Hands,Normal,Other,0,0,1,0,No,0,0,No,No
+Hone Claws,Dark,Other,0,0,6,0,No,0,0,Yes,No
+Horn Attack,Normal,Physical,7,100,5,0,Yes,0,12,No,No
+Horn Drill,Normal,Physical,25,30,16,100,Yes,0,18,No,No
+Horn Leech,Grass,Physical,8,100,12,0,Yes,0,14,No,No
+Howl,Normal,Other,0,0,5,0,No,0,0,Yes,No
+Hurricane,Flying,Special,11,70,8,30,No,0,19,No,No
+Hydro Cannon,Water,Special,15,90,10,0,No,0,20,No,No
+Hydro Pump,Water,Special,11,80,8,0,No,0,19,No,No
+Hydro Vortex,Water,Physical,0,0,0,0,No,0,0,No,No
+Hyper Beam,Normal,Special,15,90,10,0,No,0,20,No,No
+Hyper Fang,Normal,Physical,8,90,6,10,Yes,0,16,No,No
+Hyper Voice,Normal,Special,9,100,7,0,No,0,18,No,No
+Hyperspace Fury,Dark,Physical,10,0,7,0,No,0,18,No,No
+Hyperspace Hole,Psychic,Special,8,0,6,0,No,0,16,No,No
+Hypnosis,Psychic,Other,0,60,7,0,No,0,0,No,Yes
+Ice Ball,Ice,Physical,0,90,0,0,Yes,0,10,No,No
+Ice Beam,Ice,Special,9,100,7,10,No,0,18,No,No
+Ice Burn,Ice,Special,14,90,9,30,No,-1,20,No,No
+Ice Fang,Ice,Physical,7,95,5,10,Yes,0,12,No,No
+Ice Punch,Ice,Physical,8,100,6,10,Yes,0,14,No,No
+Ice Shard,Ice,Physical,4,100,4,0,No,1,10,No,No
+Icicle Crash,Ice,Physical,9,90,7,30,No,0,16,No,No
+Icicle Spear,Ice,Physical,3,100,7,0,No,0,14,No,No
+Icy Wind,Ice,Special,6,95,5,100,No,0,10,No,No
+Imprison,Psychic,Other,0,0,8,0,No,0,0,Yes,No
+Incinerate,Fire,Special,6,100,4,0,No,0,12,No,No
+Inferno,Fire,Special,10,50,7,100,No,0,18,No,No
+Inferno Overdrive,Fire,Physical,0,0,0,0,No,0,0,No,No
+Infestation,Bug,Special,4,100,5,0,Yes,0,10,No,No
+Ingrain,Grass,Other,0,0,9,0,No,0,0,Yes,No
+Instruct,Psychic,Other,0,0,9,0,No,0,0,No,No
+Ion Deluge,Electric,Other,0,0,8,0,No,1,0,No,No
+Iron Defense,Steel,Other,0,0,7,0,No,0,0,Yes,No
+Iron Head,Steel,Physical,8,100,6,30,Yes,0,16,No,No
+Iron Tail,Steel,Physical,10,75,7,30,Yes,0,18,No,No
+Judgment,Normal,Special,10,100,7,0,No,0,18,No,No
+Jump Kick,Fighting,Physical,10,95,7,0,Yes,0,18,No,No
+Karate Chop,Fighting,Physical,5,100,3,0,Yes,0,10,No,No
+Kinesis,Psychic,Other,0,80,0,0,No,0,0,No,Yes
+King's Shield,Steel,Other,0,0,0,0,No,4,0,Yes,No
+Knock Off,Dark,Physical,7,100,7,0,Yes,0,12,No,No
+Land's Wrath,Ground,Physical,9,100,7,0,No,0,19,No,No
+Laser Focus,Normal,Other,0,0,12,0,No,0,0,Yes,No
+Last Resort,Normal,Physical,14,100,9,0,No,0,20,No,No
+Lava Plume,Fire,Special,8,100,6,30,No,0,16,No,No
+Leaf Blade,Grass,Physical,9,100,7,0,Yes,0,18,No,No
+Leaf Storm,Grass,Special,13,90,9,0,No,0,20,No,No
+Leaf Tornado,Grass,Special,7,90,5,30,No,0,12,No,No
+Leafage,Grass,Physical,4,100,3,0,No,0,10,No,No
+Leech Life,Bug,Physical,8,100,12,0,Yes,0,16,No,No
+Leech Seed,Grass,Other,0,90,10,0,No,0,0,No,Yes
+Leer,Normal,Other,0,100,4,0,No,0,0,No,Yes
+Lick,Ghost,Physical,4,100,3,30,Yes,0,10,No,No
+Light of Ruin,Fairy,Special,14,90,10,0,No,0,20,No,No
+Light Screen,Psychic,Other,0,0,10,0,No,0,0,Yes,No
+Liquidation,Water,Physical,9,100,7,20,Tes,0,16,No,No
+Lock-On,Normal,Other,0,0,6,0,No,0,0,No,No
+Lovely Kiss,Normal,Other,0,75,6,0,No,0,0,No,Yes
+Low Kick,Fighting,Physical,0,100,4,0,Yes,0,16,No,No
+Low Sweep,Fighting,Physical,7,100,5,0,Yes,0,12,No,No
+Lucky Chant,Normal,Other,0,0,10,0,No,0,0,Yes,No
+Lunar Dance,Psychic,Other,0,0,15,0,No,0,0,Yes,No
+Lunge,Bug,Physical,8,100,6,100,Yes,0,16,No,No
+Luster Purge,Psychic,Special,7,100,5,50,No,0,14,No,No
+Mach Punch,Fighting,Physical,4,100,4,0,Yes,1,10,No,No
+Magic Coat,Psychic,Other,0,0,10,0,No,4,0,No,No
+Magic Room,Psychic,Other,0,0,10,0,No,0,0,No,No
+Magical Leaf,Grass,Special,6,0,4,0,No,0,12,No,No
+Magma Storm,Fire,Special,10,75,10,0,No,0,18,No,No
+Magnet Bomb,Steel,Physical,6,0,4,0,No,0,12,No,No
+Magnet Rise,Electric,Other,0,0,6,0,No,0,0,Yes,No
+Magnetic Flux,Electric,Other,0,0,7,0,No,0,0,No,No
+Magnitude,Ground,Physical,0,100,6,0,No,0,14,No,No
+Malicious Moonsault,Dark,Physical,18,0,6,0,Yes,0,0,No,No
+Mat Block,Fighting,Other,0,0,0,0,No,0,0,No,No
+Me First,Normal,Other,0,0,0,0,No,0,0,No,No
+Mean Look,Normal,Other,0,0,6,0,No,0,0,No,Yes
+Meditate,Psychic,Other,0,0,5,0,No,0,0,Yes,No
+Mega Drain,Grass,Special,6,100,9,0,No,0,12,No,No
+Mega Kick,Normal,Physical,12,75,8,0,Yes,0,19,No,No
+Mega Punch,Normal,Physical,8,85,6,0,Yes,0,16,No,No
+Megahorn,Bug,Physical,12,85,8,0,Yes,0,19,No,No
+Memento,Dark,Other,0,100,10,0,No,0,0,No,No
+Metal Burst,Steel,Physical,0,100,0,0,No,0,10,No,No
+Metal Claw,Steel,Physical,5,95,4,10,Yes,0,10,No,No
+Metal Sound,Steel,Other,0,85,6,0,No,0,0,No,Yes
+Meteor Mash,Steel,Physical,9,90,7,20,Yes,0,18,No,No
+Metronome,Normal,Other,0,0,0,0,No,0,0,No,No
+Milk Drink,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Mimic,Normal,Other,0,0,5,0,No,0,0,No,No
+Mind Reader,Normal,Other,0,0,6,0,No,0,0,No,No
+Minimize,Normal,Other,0,0,9,0,No,0,0,Yes,No
+Miracle Eye,Psychic,Other,0,0,6,0,No,0,0,No,Yes
+Mirror Coat,Psychic,Special,0,100,0,0,No,-5,10,No,No
+Mirror Move,Flying,Other,0,0,0,0,No,0,,No,No
+Mirror Shot,Steel,Special,7,85,5,30,No,0,12,No,No
+Mist,Ice,Other,0,0,7,0,No,0,,Yes,No
+Mist Ball,Psychic,Special,7,100,6,50,No,0,14,No,No
+Misty Terrain,Fairy,Other,0,0,10,0,No,0,0,No,No
+Moonblast,Fairy,Special,10,100,7,30,No,0,18,No,No
+Moongeist Beam,Ghost,Special,10,100,7,0,No,0,18,No,No
+Moonlight,Fairy,Other,0,0,0,0,No,0,0,Yes,No
+Morning Sun,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Mud Bomb,Ground,Special,7,85,5,30,No,0,12,No,No
+Mud Shot,Ground,Special,6,95,4,0,No,0,10,No,No
+Mud Sport,Ground,Other,0,0,5,0,No,0,0,No,No
+Mud-Slap,Ground,Special,4,100,0,0,No,0,10,No,No
+Muddy Water,Water,Special,9,85,7,30,No,0,18,No,No
+Multi-Attack,Normal,Physical,9,100,7,0,Yes,0,19,No,No
+Mystical Fire,Fire,Special,8,100,6,100,No,0,14,No,No
+Nasty Plot,Dark,Other,0,0,7,0,No,0,0,Yes,No
+Natural Gift,Normal,Physical,0,100,7,0,No,0,16,No,No
+Nature Power,Normal,Other,0,0,0,0,No,0,0,No,No
+Nature's Madness,Fairy,Special,0,90,0,0,No,0,10,No,No
+Needle Arm,Grass,Physical,6,100,4,30,Yes,0,12,No,No
+Never-Ending Nightmare,Ghost,Physical,0,0,0,0,No,0,0,No,No
+Night Daze,Dark,Special,9,95,7,40,No,0,16,No,No
+Night Shade,Ghost,Special,0,100,5,0,No,0,10,No,No
+Night Slash,Dark,Physical,7,100,5,0,Yes,0,14,No,No
+Nightmare,Ghost,Other,0,100,7,0,No,0,0,No,No
+Noble Roar,Normal,Other,0,0,6,0,No,0,0,No,Yes
+Nuzzle,Electric,Physical,4,100,4,100,Yes,0,10,No,No
+Oblivion Wing,Flying,Special,8,100,12,0,No,0,16,No,No
+Oceanic Operetta,Water,Special,20,0,7,0,No,0,0,No,No
+Octazooka,Water,Special,7,85,5,50,No,0,12,No,No
+Odor Sleuth,Normal,Other,0,0,6,0,No,0,0,No,Yes
+Ominous Wind,Ghost,Special,6,100,4,10,No,0,12,No,No
+Origin Pulse,Water,Special,11,85,8,0,No,0,19,No,No
+Outrage,Dragon,Physical,12,100,8,0,Yes,0,19,No,No
+Overheat,Fire,Special,13,90,9,0,No,0,20,No,No
+Pain Split,Normal,Other,0,0,0,0,No,0,0,No,No
+Paleo Wave,Rock,Special,9,100,7,20,No,0,16,No,No
+Parabolic Charge,Electric,Special,7,100,10,0,No,0,12,No,No
+Parting Shot,Dark,Other,0,100,5,0,No,0,0,No,Yes
+Pay Day,Normal,Physical,4,100,3,0,No,0,10,No,No
+Payback,Dark,Physical,5,100,7,0,Yes,0,10,No,No
+Peck,Flying,Physical,4,100,3,0,Yes,0,10,No,No
+Perish Song,Normal,Other,0,0,15,0,No,-1,0,No,No
+Petal Blizzard,Grass,Physical,9,100,7,0,No,0,18,No,No
+Petal Dance,Grass,Special,12,100,8,0,Yes,0,19,No,No
+Phantom Force,Ghost,Physical,9,100,12,0,Yes,-1,18,No,No
+Pin Missile,Bug,Physical,3,95,7,0,No,0,14,No,No
+Play Nice,Normal,Other,0,0,5,0,No,0,0,No,Yes
+Play Rough,Fairy,Physical,9,90,7,10,Yes,0,18,No,No
+Pluck,Flying,Physical,6,100,4,0,Yes,0,12,No,No
+Poison Fang,Poison,Physical,5,100,4,50,Yes,0,10,No,No
+Poison Gas,Poison,Other,0,90,7,0,No,0,0,No,Yes
+Poison Jab,Poison,Physical,8,100,6,30,Yes,0,16,No,No
+Poison Powder,Poison,Other,0,75,7,0,No,0,0,No,Yes
+Poison Sting,Poison,Physical,4,100,3,30,Yes,0,10,No,No
+Poison Tail,Poison,Physical,5,100,4,10,Yes,0,10,No,No
+Pollen Puff,Bug,Special,9,100,10,0,No,0,18,No,No
+Pound,Normal,Physical,4,100,3,0,Yes,0,10,No,No
+Powder,Bug,Other,0,100,7,0,No,1,0,No,No
+Powder Snow,Ice,Special,4,100,3,10,No,0,10,No,No
+Power Gem,Rock,Special,8,100,6,0,No,0,16,No,No
+Power Split,Psychic,Other,0,0,0,0,No,0,0,No,No
+Power Swap,Psychic,Other,0,0,7,0,No,0,0,No,No
+Power Trick,Psychic,Other,0,0,7,0,No,0,0,Yes,No
+Power Trip,Dark,Physical,0,100,7,0,Yes,0,16,No,No
+Power Whip,Grass,Physical,12,85,8,0,Yes,0,19,No,No
+Power-Up Punch,Fighting,Physical,4,100,4,100,Yes,0,10,No,No
+Precipice Blades,Ground,Physical,12,85,8,0,No,0,19,No,No
+Present,Normal,Physical,0,90,5,0,No,0,10,No,No
+Prismatic Laser,Psychic,Special,16,100,10,0,No,0,20,No,No
+Protect,Normal,Other,0,0,0,0,No,4,0,No,No
+Psybeam,Psychic,Special,7,100,5,10,No,0,12,No,No
+Psych Up,Normal,Other,0,0,7,0,No,0,0,No,No
+Psychic,Psychic,Special,0,100,0,10,No,0,18,No,No
+Psychic Fangs,Psychic,Physical,9,100,7,0,Yes,0,16,No,No
+Psychic Terrain,Psychic,Other,0,0,10,0,No,0,0,No,No
+Psycho Boost,Psychic,Special,14,90,10,0,No,0,20,No,No
+Psycho Cut,Psychic,Physical,7,100,5,0,No,0,14,No,No
+Psycho Shift,Psychic,Other,0,0,7,0,No,0,0,No,No
+Psyshock,Psychic,Special,8,100,6,0,No,0,16,No,No
+Psystrike,Psychic,Special,10,100,7,0,No,0,18,No,No
+Psywave,Psychic,Special,0,100,5,0,No,0,10,No,No
+Pulverizing Pancake,Normal,Physical,0,0,0,0,Yes,0,0,No,No
+Punishment,Dark,Physical,0,0,8,0,Yes,0,16,No,No
+Purify,Poison,Other,0,0,9,0,No,0,0,No,Yes
+Pursuit,Dark,Physical,4,100,5,0,Yes,0,10,No,No
+Quash,Dark,Other,0,100,5,0,No,0,0,No,No
+Quick Attack,Normal,Physical,4,100,3,0,Yes,1,10,No,No
+Quick Guard,Fighting,Other,0,100,6,0,No,3,0,Yes,No
+Quiver Dance,Bug,Other,0,0,9,0,No,0,0,Yes,No
+Rage,Normal,Physical,4,100,3,0,Yes,0,10,No,No
+Rage Powder,Bug,Other,0,100,9,0,No,2,0,No,No
+Rain Dance,Water,Other,0,0,10,0,No,0,0,No,No
+Rapid Spin,Normal,Physical,4,100,6,0,Yes,0,10,No,No
+Razor Leaf,Grass,Physical,6,95,4,0,No,0,10,No,No
+Razor Shell,Water,Physical,8,95,6,50,Yes,0,14,No,No
+Razor Wind,Normal,Special,8,100,6,0,No,-1,16,No,No
+Recover,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Recycle,Normal,Other,0,0,7,0,No,0,0,Yes,No
+Reflect,Psychic,Other,0,0,10,0,No,0,0,Yes,No
+Reflect Type,Normal,Other,0,0,5,0,No,0,0,No,No
+Refresh,Normal,Other,0,0,8,0,No,0,0,Yes,No
+Relic Song,Normal,Special,8,100,6,10,No,0,14,No,No
+Rest,Psychic,Other,0,0,15,0,No,0,0,Yes,No
+Retaliate,Normal,Physical,7,100,8,0,Yes,0,14,No,No
+Return,Normal,Physical,8,100,7,0,Yes,0,16,No,No
+Revelation Dance,Normal,Special,9,100,7,0,No,0,18,No,No
+Revenge,Fighting,Physical,6,100,8,0,Yes,-4,12,No,No
+Reversal,Fighting,Physical,0,100,0,0,Yes,0,16,No,No
+Roar,Normal,Other,0,0,7,0,No,-6,0,No,Yes
+Roar of Time,Dragon,Special,15,90,10,0,No,0,20,No,No
+Rock Blast,Rock,Physical,3,90,7,0,No,0,14,No,No
+Rock Climb,Normal,Physical,9,85,7,20,Yes,0,18,No,No
+Rock Polish,Rock,Other,0,0,7,0,No,0,0,Yes,No
+Rock Slide,Rock,Physical,8,90,6,30,No,0,14,No,No
+Rock Smash,Fighting,Physical,4,100,3,50,Yes,0,10,No,No
+Rock Throw,Rock,Physical,5,90,3,0,No,0,10,No,No
+Rock Tomb,Rock,Physical,6,95,4,0,No,0,12,No,No
+Rock Wrecker,Rock,Physical,15,90,10,0,No,0,20,No,No
+Role Play,Psychic,Other,0,0,7,0,No,0,0,No,No
+Rolling Kick,Fighting,Physical,6,85,5,30,Yes,0,,No,No
+Rollout,Rock,Physical,0,90,0,0,Yes,0,12,No,No
+Roost,Flying,Other,0,0,0,0,No,0,0,Yes,No
+Rototiller,Ground,Other,0,0,9,0,No,0,0,No,No
+Round,Normal,Special,6,100,8,0,No,0,12,No,No
+Sacred Fire,Fire,Physical,10,95,8,50,No,0,18,No,No
+Sacred Sword,Fighting,Physical,9,100,7,0,Yes,0,18,No,No
+Safeguard,Normal,Other,0,0,10,0,No,0,0,Yes,No
+Sand Attack,Ground,Other,0,100,0,No,0,0,0,No,Yes
+Sand Tomb,Ground,Physical,4,85,5,0,No,0,10,No,No
+Sandstorm,Rock,Other,0,0,10,0,No,0,0,No,No
+Savage Spin-Out,Bug,Physical,0,0,0,0,No,0,0,No,No
+Scald,Water,Special,8,100,6,30,No,0,16,No,No
+Scary Face,Normal,Other,0,100,6,0,No,0,0,No,Yes
+Scratch,Normal,Physical,4,100,3,0,Yes,0,10,No,No
+Screech,Normal,Other,0,85,6,0,No,0,0,No,Yes
+Searing Shot,Fire,Special,10,100,7,30,No,0,18,No,No
+Secret Power,Normal,Physical,7,100,5,30,No,0,14,No,No
+Secret Sword,Fighting,Special,9,100,7,0,No,0,16,No,No
+Seed Bomb,Grass,Physical,8,100,6,0,No,0,16,No,No
+Seed Flare,Grass,Special,12,85,10,40,No,0,19,No,No
+Seismic Toss,Fighting,Physical,0,100,6,0,Yes,0,10,No,No
+Self-Destruct,Normal,Physical,20,100,15,0,No,0,20,No,No
+Shadow Ball,Ghost,Special,8,100,6,20,No,0,16,No,No
+Shadow Bone,Ghost,Physical,9,100,7,20,No,0,16,No,No
+Shadow Claw,Ghost,Physical,7,100,5,0,Yes,0,14,No,No
+Shadow Force,Ghost,Physical,12,100,13,0,Yes,-1,19,No,No
+Shadow Punch,Ghost,Physical,6,0,4,0,Yes,0,12,No,No
+Shadow Sneak,Ghost,Physical,4,100,4,0,Yes,1,10,No,No
+Shadow Strike,Ghost,Physical,8,95,6,50,Yes,0,16,No,No
+Sharpen,Normal,Other,0,0,5,0,No,0,0,Yes,No
+Shattered Psyche,Psychic,Physical,0,0,0,0,No,0,0,No,No
+Sheer Cold,Ice,Special,25,30,18,0,No,0,18,No,No
+Shell Smash,Normal,Other,0,0,20,0,No,0,0,Yes,No
+Shell Trap,Fire,Special,15,100,10,0,No,-3,20,No,No
+Shift Gear,Steel,Other,0,0,7,0,No,0,0,Yes,No
+Shock Wave,Electric,Special,6,0,4,0,No,0,12,No,No
+Shore Up,Ground,Other,0,0,0,0,No,0,0,Yes,No
+Signal Beam,Bug,Special,8,100,6,10,No,0,14,No,No
+Silver Wind,Bug,Special,6,100,4,10,No,0,12,No,No
+Simple Beam,Normal,Other,0,100,6,0,No,0,0,No,Yes
+Sing,Normal,Other,0,55,6,0,No,0,0,No,Yes
+Sinister Arrow Raid,Ghost,Physical,18,0,6,0,No,0,0,No,No
+Sketch,Normal,Other,0,0,6,0,No,0,0,No,No
+Skill Swap,Psychic,Other,0,0,7,0,No,0,0,No,No
+Skull Bash,Normal,Physical,13,100,8,0,Yes,-1,20,No,No
+Sky Attack,Flying,Physical,14,90,10,30,No,-1,20,No,No
+Sky Drop,Flying,Physical,0,100,0,0,Yes,-1,12,No,No
+Sky Uppercut,Fighting,Physical,9,90,6,0,Yes,0,16,No,No
+Slack Off,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Slam,Normal,Physical,8,75,5,0,Yes,0,16,No,No
+Slash,Normal,Physical,7,100,5,0,Yes,0,14,No,No
+Sleep Powder,Grass,Other,0,75,7,0,No,0,0,No,Yes
+Sleep Talk,Normal,Other,0,0,0,0,No,0,0,No,No
+Sludge,Poison,Special,7,100,5,30,No,0,12,No,No
+Sludge Bomb,Poison,Special,9,100,7,30,No,0,18,No,No
+Sludge Wave,Poison,Special,10,100,7,10,No,0,18,No,No
+Smack Down,Rock,Physical,5,100,4,0,No,0,10,No,No
+Smart Strike,Steel,Physical,7,0,5,0,Yes,0,14,No,No
+Smelling Salts,Normal,Physical,7,100,9,0,Yes,0,14,No,No
+Smog,Poison,Special,4,70,3,40,No,0,10,No,No
+Smokescreen,Normal,Other,0,100,0,0,No,0,,No,Yes
+Snarl,Dark,Special,6,95,5,0,No,0,10,No,No
+Snatch,Dark,Other,0,100,0,0,No,4,0,No,No
+Snore,Normal,Special,5,100,3,30,No,0,10,No,No
+Soak,Water,Other,0,0,8,0,No,0,0,No,Yes
+Soft-Boiled,Normal,Other,0,0,,0,No,0,0,Yes,No
+Solar Beam,Grass,Special,12,100,8,0,No,-1,19,No,No
+Solar Blade,Grass,Physical,13,100,9,0,Yes,-1,19,No,No
+Sonic Boom,Normal,Special,0,90,5,No,0,0,10,No,No
+Soul-Stealing 7-Star Strike,Ghost,Physical,20,0,7,0,Yes,0,0,No,No
+Spacial Rend,Dragon,Special,10,95,7,0,No,0,18,No,No
+Spark,Electric,Physical,7,100,5,30,Yes,0,12,No,No
+Sparkling Aria,Water,Special,9,100,7,0,No,0,18,No,No
+Spectral Thief,Ghost,Physical,9,100,7,0,Yes,0,18,No,No
+Speed Swap,Psychic,Other,0,0,7,0,No,0,0,No,No
+Spider Web,Bug,Other,0,0,8,0,No,0,0,No,Yes
+Spike Cannon,Normal,Physical,2,100,4,0,No,0,10,No,No
+Spikes,Ground,Other,0,0,8,0,No,0,0,No,Yes
+Spiky Shield,Grass,Others,0,0,0,0,No,4,0,No,No
+Spirit Shackle,Ghost,Physical,8,100,6,0,No,0,16,No,No
+Spit Up,Normal,Special,0,100,15,0,No,0,10,No,No
+Spite,Ghost,Other,0,100,6,0,No,0,0,No,Yes
+Splash,Normal,Other,0,0,1,0,No,0,0,No,No
+Spore,Grass,Other,0,100,8,0,No,0,0,No,Yes
+Spotlight,Normal,Other,0,0,9,0,No,3,0,No,Yes
+Stealth Rock,Rock,Other,0,100,12,0,No,0,0,No,Yes
+Steam Eruption,Water,Special,11,95,8,30,No,0,19,No,No
+Steamroller,Bug,Physical,0,100,7,30,Yes,0,12,No,No
+Steel Wing,Steel,Physical,7,90,5,10,Yes,0,14,No,No
+Sticky Web,Bug,Other,0,0,10,0,No,0,0,No,Yes
+Stockpile,Normal,Other,0,0,8,0,No,0,0,Yes,No
+Stoked SparkSurfer,Electric,Special,18,0,7,100,No,0,0,No,No
+Stomp,Normal,Physical,0,100,7,30,Yes,0,12,No,No
+Stomping Tantrum,Ground,Physical,8,100,7,0,Yes,0,14,No,No
+Stone Edge,Rock,Physical,10,80,7,0,No,0,18,No,No
+Stored Power,Psychic,Special,0,100,7,0,No,0,16,No,No
+Storm Throw,Fighting,Physical,0,100,0,0,Yes,0,12,No,No
+Strength,Normal,Physical,8,100,6,0,Yes,0,16,No,No
+Strength Sap,Grass,Other,0,100,0,0,No,0,0,No,Yes
+String Shot,Bug,Other,0,95,6,0,No,0,0,No,Yes
+Struggle,Typeless,Physical,5,100,5,0,Yes,0,1,No,No
+Struggle Bug,Bug,Special,5,100,3,0,No,0,10,No,No
+Stun Spore,Grass,Other,0,75,7,0,No,0,0,No,Yes
+Submission,Fighting,Physical,0,80,6,0,Yes,0,16,No,No
+Substitute,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Subzero Slammer,Ice,Physical,0,0,0,0,No,0,0,No,No
+Sucker Punch,Dark,Physical,7,100,5,0,Yes,1,14,No,No
+Sunny Day,Fire,Other,0,0,10,0,No,0,0,No,No
+Sunsteel Strike,Steel,Physical,10,100,7,0,Yes,0,18,No,No
+Super Fang,Normal,Physical,0,90,0,0,Yes,0,10,No,No
+Superpower,Fighting,Physical,12,100,8,0,Yes,0,19,No,No
+Supersonic,Normal,Other,0,55,4,0,No,0,0,No,Yes
+Supersonic Skystrike,Flying,Physical,0,0,0,0,No,0,0,No,No
+Surf,Water,Special,9,100,7,0,No,0,18,No,No
+Swagger,Normal,Other,0,85,7,0,No,0,0,No,Yes
+Swallow,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Sweet Kiss,Fairy,Other,0,75,5,0,No,0,0,No,Yes
+Sweet Scent,Normal,Other,0,100,4,0,No,0,0,No,Yes
+Swift,Normal,Special,6,0,4,0,No,0,12,No,No
+Switcheroo,Dark,Other,0,100,7,0,No,0,0,No,No
+Swords Dance,Normal,Other,0,0,7,0,No,0,0,Yes,No
+Synchronoise,Psychic,Special,12,100,8,0,No,0,19,No,No
+Synthesis,Grass,Other,0,0,0,0,No,0,0,Yes,No
+Tackle,Normal,Physical,0,100,0,0,Yes,0,10,No,No
+Tail Glow,Bug,Other,0,0,11,0,No,0,0,Yes,No
+Tail Slap,Normal,Physical,3,85,7,0,Yes,0,14,No,No
+Tail Whip,Normal,Other,0,100,4,0,No,0,0,No,Yes
+Tailwind,Flying,Other,0,0,10,0,No,0,0,Yes,No
+Take Down,Normal,Physical,0,85,0,0,Yes,0,18,No,No
+Taunt,Dark,Other,0,100,10,0,No,0,0,No,Yes
+Tearful Look,Normal,Other,0,0,6,0,No,0,0,No,Yes
+Techno Blast,Depends,Special,12,100,8,0,No,0,19,No,No
+Tectonic Rage,Ground,Physical,0,0,0,0,No,0,0,No,No
+Teeter Dance,Normal,Other,0,100,5,0,No,0,0,No,No
+Telekinesis,Psychic,Other,0,0,7,0,No,0,0,No,Yes
+Teleport,Psychic,Other,0,0,7,0,No,0,0,No,No
+Thief,Dark,Physical,6,100,4,100,Yes,0,12,No,No
+Thousand Arrows,Ground,Physical,9,100,7,0,No,0,18,No,No
+Thousand Waves,Ground,Physical,9,100,7,0,No,0,18,No,No
+Thrash,Normal,Physical,12,100,8,0,Yes,0,19,No,No
+Throat Chop,Dark,Physical,8,100,6,0,Yes,0,16,No,No
+Thunder,Electric,Special,11,70,8,30,No,0,19,No,No
+Thunder Fang,Electric,Physical,7,95,5,10,Yes,0,12,No,No
+Thunder Punch,Electric,Physical,8,100,6,10,Yes,0,14,No,No
+Thunder Shock,Electric,Special,4,100,3,10,No,0,10,No,No
+Thunder Wave,Electric,Other,0,90,7,0,No,0,0,No,Yes
+Thunderbolt,Electric,Special,9,100,7,10,No,0,18,No,No
+Tickle,Normal,Other,0,100,6,0,No,0,0,No,Yes
+Topsy-Turvy,Dark,Other,0,100,7,0,No,0,0,No,Yes
+Torment,Dark,Other,0,100,10,0,No,0,0,No,Yes
+Toxic,Poison,Other,0,90,7,0,No,0,0,No,Yes
+Toxic Spikes,Poison,Other,0,0,7,0,No,0,0,No,Yes
+Toxic Thread,Poison,Other,0,100,7,0,No,0,0,No,Yes
+Transform,Normal,Other,0,0,10,0,No,0,0,No,No
+Tri Attack,Normal,Special,8,100,6,20,No,0,16,No,No
+Trick,Psychic,Other,0,100,7,0,No,0,0,No,No
+Trick Room,Psychic,Other,0,0,10,0,No,-7,0,No,No
+Trick-or-Treat,Ghost,Other,0,100,8,0,No,0,0,No,No
+Triple Kick,Fighting,Physical,2,90,4,0,Yes,0,12,No,No
+Trop Kick,Grass,Physical,7,100,5,100,Yes,0,14,No,No
+Trump Card,Normal,Special,5,100,8,0,Yes,0,16,No,No
+Twineedle,Bug,Physical,3,100,4,20,No,0,10,No,No
+Twinkle Tackle,Fairy,Physical,0,0,0,0,No,0,0,No,No
+Twister,Dragon,Special,4,100,3,20,No,0,10,No,No
+U-turn,Bug,Physical,7,100,5,0,Yes,0,14,No,No
+Uproar,Normal,Special,9,100,6,0,No,0,18,No,No
+V-Create,Fire,Physical,18,95,12,0,Yes,0,22,No,No
+Vacuum Wave,Fighting,Special,4,100,4,0,No,1,10,No,No
+Venom Drench,Poison,Other,0,100,8,0,No,0,0,No,Yes
+Venoshock,Poison,Special,7,100,8,0,No,0,12,No,No
+Vice Grip,Normal,Physical,6,100,4,0,Yes,0,10,No,No
+Vine Whip,Grass,Physical,5,100,3,0,Yes,0,10,No,No
+Vital Throw,Fighting,Physical,0,100,5,0,Yes,-1,14,No,No
+Volt Switch,Electric,Special,7,100,5,0,No,0,14,No,No
+Volt Tackle,Electric,Physical,0,100,0,0,Yes,0,19,No,No
+Wake-Up Slap,Fighting,Physical,7,100,9,0,Yes,0,14,No,No
+Water Gun,Water,Special,4,100,3,0,No,0,10,No,No
+Water Pledge,Water,Special,8,100,6,0,No,0,16,No,No
+Water Pulse,Water,Special,6,100,4,20,No,0,12,No,No
+Water Shuriken,Water,Special,2,100,4,0,No,1,10,No,No
+Water Sport,Water,Other,0,0,5,0,No,0,0,No,No
+Water Spout,Water,Special,0,100,8,0,No,0,20,No,No
+Waterfall,Water,Physical,8,100,6,20,Yes,0,16,No,No
+Weather Ball,Normal,Special,5,100,7,0,No,0,16,No,No
+Whirlpool,Water,Special,4,85,5,0,No,0,10,No,No
+Whirlwind,Normal,Other,0,0,7,0,No,-6,0,No,Yes
+Wide Guard,Rock,Other,0,100,7,0,No,3,0,Yes,No
+Wild Charge,Electric,Physical,0,100,0,0,Yes,0,18,No,No
+Will-O-Wisp,Fire,Other,0,85,7,0,No,0,0,No,Yes
+Wing Attack,Flying,Physical,6,100,4,0,Yes,0,12,No,No
+Wish,Normal,Other,0,0,0,0,No,0,0,Yes,No
+Withdraw,Water,Other,0,0,5,0,No,0,0,Yes,No
+Wonder Room,Psychic,Other,0,0,10,0,No,0,0,No,No
+Wood Hammer,Grass,Physical,0,100,0,0,Yes,0,19,No,No
+Work Up,Normal,Other,0,0,7,0,No,0,0,Yes,No
+Worry Seed,Grass,Other,0,0,8,0,No,0,0,No,Yes
+Wrap,Normal,Physical,3,90,4,0,Yes,0,10,No,No
+Wring Out,Normal,Special,0,100,9,0,Yes,0,19,No,No
+X-Scissor,Bug,Physical,8,100,6,0,Yes,0,16,No,No
+Yawn,Normal,Other,0,100,7,0,No,0,0,No,Yes
+Zap Cannon,Electric,Special,12,50,9,0,No,0,19,No,No
+Zen Headbutt,Psychic,Physical,8,90,6,20,Yes,0,16,No,No
+Zing Zap,Electric,Physical,8,100,6,30,Yes,0,16,No,No
